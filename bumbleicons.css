@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'primeicons';
+    font-family: 'bumbleicons';
     font-display: block;
-    src: url('./fonts/primeicons.eot');
-    src: url('./fonts/primeicons.eot?#iefix') format('embedded-opentype'), url('./fonts/primeicons.woff2') format('woff2'), url('./fonts/primeicons.woff') format('woff'), url('./fonts/primeicons.ttf') format('truetype'), url('./fonts/primeicons.svg?#primeicons') format('svg');
+    src: url('./fonts/bumbleicons.eot');
+    src: url('./fonts/bumbleicons.eot?#iefix') format('embedded-opentype'), url('./fonts/bumbleicons.woff2') format('woff2'), url('./fonts/bumbleicons.woff') format('woff'), url('./fonts/bumbleicons.ttf') format('truetype'), url('./fonts/bumbleicons.svg?#bumbleicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 .pi {
-    font-family: 'primeicons';
+    font-family: 'bumbleicons';
     speak: none;
     font-style: normal;
     font-weight: normal;

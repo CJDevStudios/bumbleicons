@@ -1,16 +1,24 @@
 {
-  "name": "primeicons",
+  "name": "@cjdevstudios/bumbleicons",
   "version": "7.0.1-SNAPSHOT",
-  "description": "Icon Library for Prime UI Libraries",
+  "description": "Icon Library for BumbleVue",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/primefaces/primeicons.git"
+    "url": "git+https://github.com/CJDevStudios/bumbleicons.git"
   },
   "keywords": ["Icon"],
-  "author": "PrimeTek",
+  "author": "CJ Development Studios",
+  "contributors": [
+    {
+      "name": "CJ Development Studios"
+    },
+    {
+      "name": "PrimeTek Informatics"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/primefaces/primeicons/issues"
+    "url": "https://github.com/CJDevStudios/bumbleicons/issues"
   },
-  "homepage": "https://github.com/primefaces/primeicons#readme"
+  "homepage": "https://github.com/CJDevStudios/bumbleicons#readme"
 }
