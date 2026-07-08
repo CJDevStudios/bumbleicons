@@ -1,8 +1,7 @@
 @font-face {
     font-family: 'bumbleicons';
     font-display: block;
-    src: url('./fonts/bumbleicons.eot');
-    src: url('./fonts/bumbleicons.eot?#iefix') format('embedded-opentype'), url('./fonts/bumbleicons.woff2') format('woff2'), url('./fonts/bumbleicons.woff') format('woff'), url('./fonts/bumbleicons.ttf') format('truetype'), url('./fonts/bumbleicons.svg?#bumbleicons') format('svg');
+    src: url('./fonts/bumbleicons.woff2') format('woff2'), url('./fonts/bumbleicons.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
