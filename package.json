@@ -1,12 +1,14 @@
 {
   "name": "@cjdevstudios/bumbleicons",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "Icon Library for BumbleVue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CJDevStudios/bumbleicons.git"
   },
-  "keywords": ["Icon"],
+  "keywords": [
+    "Icon"
+  ],
   "author": "CJ Development Studios",
   "contributors": [
     {
